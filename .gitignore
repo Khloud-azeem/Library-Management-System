@@ -1,0 +1,28 @@
+# Ignore Maven target directory
+/target/
+
+# Ignore IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# Ignore logs
+/logs/
+/*.log
+
+# Ignore temporary files
+*.swp
+*~
+*.tmp
+*.bak
+*.orig
+
+# Ignore build files
+/dist/
+/out/
+/build/
+
+# Ignore vscode files
+.vscode/
+
+# Ignore any other sensitive files
+*.env
